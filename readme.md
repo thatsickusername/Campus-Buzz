@@ -62,7 +62,7 @@
 
 
 <div align="center">
-    <img src="registerpage.png" alt="Logo" width="80" height="80">
+    <img src="registerpage.png" alt="Logo" width="auto" height="auto">
 </div>
 
 <!-- ABOUT THE PROJECT -->
