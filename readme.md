@@ -64,6 +64,10 @@
 <div align="center">
     <img src="registerpage.png" alt="Logo" width="auto" height="auto">
 </div>
+<div height="20px">
+<div align="center">
+    <img src="homepage.png" alt="Logo" width="auto" height="auto">
+</div>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
