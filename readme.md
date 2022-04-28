@@ -123,7 +123,7 @@ Don't forget to give the project a star! Thanks again!
 
 Your Name - [@ManishPandey](https://www.linkedin.com/in/manish-pandey-245b83194/) - manish1234pandeycrpf@gmail.com
 
-Project Link: [Campus BUZZ](https://github.com/thatsickusername/Campus-Buzz)
+Project Link: [Campus BUZZ](https://skillly,herokuapp.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
