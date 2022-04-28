@@ -61,10 +61,14 @@
 
 
 
+<div align="center">
+    <img src="registerpage.png" alt="Logo" width="80" height="80">
+</div>
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![registerpage][homepage][postpage][profilepage]](https://example.com)
+
 
 To make a functioning platform that provides value to the users seeking answers for their doubts, multiple basic requirements need to be checked which are being mentioned down below:
 * The user interface should be easy to use
