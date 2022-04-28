@@ -121,9 +121,9 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - [@ManishPandey](https://www.linkedin.com/in/manish-pandey-245b83194/) - manish1234pandeycrpf@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [Campus BUZZ](https://github.com/thatsickusername/Campus-Buzz)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
